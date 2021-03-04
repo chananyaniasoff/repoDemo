@@ -20,4 +20,5 @@ for index, letter in enumerate(name):
     if letter=="c":
         print("my name!!")
     else:
+        
         print("😊")   
