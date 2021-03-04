@@ -38,4 +38,4 @@ print(f"you typed {number} mutiple of 5")
 
 print("this is a new pull")
 
->>>>>>> 1a56d50617ef67cdb9ace1ae52656368ecf5daa8
+
