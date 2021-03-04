@@ -21,7 +21,3 @@ for index, letter in enumerate(name):
         print("my name!!")
     else:
         print("😊")   
-         
-
-
-
