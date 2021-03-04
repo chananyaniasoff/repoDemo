@@ -20,5 +20,22 @@ for index, letter in enumerate(name):
     if letter=="c":
         print("my name!!")
     else:
+
         
         print("😊")   
+
+         
+count=0       
+while True:
+    number=int( input("type a number"))
+    if number%5==0:
+        print(f"{number} is mulitple of 5")
+        count+=1
+    else:
+        break    
+
+print(f"you typed {number} mutiple of 5")
+
+print("this is a new pull")
+
+>>>>>>> 1a56d50617ef67cdb9ace1ae52656368ecf5daa8
